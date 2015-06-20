@@ -9,4 +9,5 @@
 import Foundation
 
 var test = 12
-var test2 = 26
+var test2 = 24
+var test3 = 12
